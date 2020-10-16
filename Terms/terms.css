@@ -1,0 +1,27 @@
+*{margin: 0;padding: 0;}
+.header h3{
+    text-align: center;
+    border-bottom: 1px solid #333;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+/*----------------------footer css --------------*/
+footer {
+    width: 100%;
+    background: #333;
+}
+
+.footerColor {
+    color: #fff;
+}
+.abir{
+    padding: 15px;
+}
+.copyright{
+    background: black;
+    color: #ddd;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+}
